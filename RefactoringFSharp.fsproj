@@ -55,14 +55,20 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <None Include="README.md" />
+    <None Include="ErrorHandling.fsx" />
     <None Include="TipsAndSmells.fsx" />
     <None Include="Guard.csx" />
     <None Include="Image.csx" />
     <None Include="JpegDecoder.csx" />
-    <None Include="Guard_v1.fsx" />
-    <None Include="Guard_v2.fsx" />
-    <None Include="JpegDecoder_v1.fsx" />
-    <None Include="JpegDecoder_v2.fsx" />
+    <None Include="Guard.fsx" />
+    <None Include="JpegDecoder.fsx" />
+    <None Include="GuardFP.fsx" />
+    <None Include="JpegDecoderFP.fsx" />
+    <None Include="MemberChangeTracker.csx" />
+    <None Include="Member.csx" />
+    <None Include="MemberChangeTracker.fsx" />
+    <None Include="Member.fsx" />
+    <None Include="MemberFP.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />

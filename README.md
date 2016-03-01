@@ -2,6 +2,8 @@
 
 Examples from my "Refactoring F#" talk.
 
+Code available at https://github.com/swlaschin/RefactoringFSharp
+
 
 ## Key principles of functional programming
 
